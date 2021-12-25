@@ -79,31 +79,40 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
- ──『[SAIYAN VEGETA](https://telegra.ph/file/5c24e42b677e7e8ec46b2.jpg)』
-
-Hey User!!✋
-𝐈 Am *Prince Vegeta* Add 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐈 𝐖𝐢𝐥𝐥 𝐃𝐞𝐬𝐭𝐫𝐨𝐲 𝐄𝐯𝐢𝐥𝐬 𝐖𝐢𝐭𝐡 𝐌𝐲 Powers...\n
-*JOIN OFFICIAL* -
-[CHANNEL](t.me/pegasusUpdates) - [SUPPORT](t.me/pegasusSupportChat)\n
-*SEE POWER HIT - /help*
+ 𝙃𝙚𝙡𝙡𝙤 (),𝙄 𝙖𝙢 Infernipe,
+𝙄 𝙖𝙢 𝙖 𝘼𝙣𝙞𝙢𝙚 𝙩𝙝𝙚𝙢𝙚𝙙 𝙜𝙧𝙤𝙪𝙥 𝙢𝙖𝙣𝙖𝙜𝙚𝙢𝙚𝙣𝙩 𝙗𝙤𝙩
+𝙩𝙤 𝙢𝙖𝙠𝙚 𝙮𝙤𝙪𝙧 𝙜𝙧𝙤𝙪𝙥 𝙖𝙢𝙖𝙯𝙞𝙣𝙜.
+┏━━━━━━━━━━━━━━━━━━━
+┃ • I Wɪʟʟ Usᴇ Mʏ Fɪᴇʀʏ Pᴏᴡᴇʀs     
+┃ Aɴᴅ Pʀᴏᴛᴇᴄᴛ Yᴏᴜʀ Gʀᴏᴜᴘs. 
+┃
+┃ • Yᴏᴜ Cᴀɴ Fɪɴᴅ Mʏ Aᴠᴀɪʟᴀʙʟᴇ
+┃Cᴏᴍᴍᴀɴᴅs Wɪᴛʜ /help
+┃
+┃ • Iғ Aɴʏ Pʀᴏʙʟᴇᴍ Rᴇᴘᴏʀᴛ Iᴛ Tᴏ ┃Sᴜᴘᴘᴏʀᴛ ᴏʀ Mʏ Mᴀsᴛᴇʀ.
+┃
+┃ • Usᴇ Bᴜᴛᴛᴏɴs Bᴇʟᴏᴡ ᴛᴏ          
+┃   Kɴᴏᴡ  Mʏ Aᴠᴀɪʟᴀʙʟᴇ   
+┃   Fᴇᴀᴛᴜʀᴇs.
+┗━━━━━━━━━━━━━━━━━━━*
 
 ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
 """
 PMSTART_CHAT = (
     "[ I defect you friza.... Haaa haaa!!!](https://telegra.ph/file/e3562d9105926983715d9.mp4)",
-    "[I'm Prince Vegeta I Hope Your Planets](https://telegra.ph/file/9aed3b24431552db6d87d.jpg)",
+    "[I'm infernipe I Hope Your Planets](https://telegra.ph/file/9aed3b24431552db6d87d.jpg)",
     "[Dont Teach My Family 🔥](https://telegra.ph/file/bd5f26483bae7d400ec7e.jpg)",
     "[kaaaameeeee kaaaameee boommmm!!!!](https://telegra.ph/file/adfffdc36ff4303eb7523.jpg)", )
 
 buttons = [
     [
         InlineKeyboardButton(
-                            text="☑ Add Vegeta to Group ☑",
-                            url="t.me/VegetaRobot?startgroup=true"),
+                            text="☑ Add infernipe to Group ☑",
+                            url="t.me/Infernipe_bot?startgroup=true"),
                     ],
                    [
-                       InlineKeyboardButton(text="✧ Network", url="t.me/pegasusXteam"),
-                       InlineKeyboardButton(text="✧ Logs", url="t.me/pegasusLogs"),
+                       InlineKeyboardButton(text="✧ my master", url="https://t.me/harshahero"),
+                       InlineKeyboardButton(text="✧ Logs", url="https://t.me/sct_logs"),
                      ],
                     [                  
                        InlineKeyboardButton(
@@ -117,7 +126,7 @@ buttons = [
 ] 
 
 HELP_STRINGS = """
-Hey there, I'm *Vegeta*!
+Hey there, I'm *infernipe*!
 To make me functional, make sure that i have enough rights in your group.
 Helpful commands:
 - /start: Starts me! You've probably already used this.
@@ -138,9 +147,9 @@ GROUPSTART_IMG= "https://telegra.ph/file/aac824153c53d30e7abb4.mp4"
 
 PM_IMG = ( "https://telegra.ph/file/9d2c6e3b28afe7619856e.jpg",
            "https://telegra.ph/file/9aed3b24431552db6d87d.jpg",
-           "https://telegra.ph/file/0f8643d86be3f82dc21be.jpg",
-           "https://telegra.ph/file/b191b0482d7a058dc0141.jpg",
-           "https://telegra.ph/file/5c24e42b677e7e8ec46b2.jpg", )
+           "https://telegra.ph/file/f9ff50b0dd2e8495e05b4.jpg",
+           "https://telegra.ph/file/faa39df112687081fe7b8.jpg",
+           "https://telegra.ph/file/0abbb865bd479c8460efe.jpg", )
 
 
 IMPORTED = {}
