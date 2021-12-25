@@ -94,15 +94,27 @@ PM_START_TEXT = """
 ┃ • Usᴇ Bᴜᴛᴛᴏɴs Bᴇʟᴏᴡ ᴛᴏ          
 ┃   Kɴᴏᴡ  Mʏ Aᴠᴀɪʟᴀʙʟᴇ   
 ┃   Fᴇᴀᴛᴜʀᴇs.
-┗━━━━━━━━━━━━━━━━━━━*
+┗━━━━━━━━━━━━━━━━━━━*")
 
 ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
 """
 PMSTART_CHAT = (
-    "[ I defect you friza.... Haaa haaa!!!](https://telegra.ph/file/e3562d9105926983715d9.mp4)",
-    "[I'm infernipe I Hope Your Planets](https://telegra.ph/file/9aed3b24431552db6d87d.jpg)",
-    "[Dont Teach My Family 🔥](https://telegra.ph/file/bd5f26483bae7d400ec7e.jpg)",
-    "[kaaaameeeee kaaaameee boommmm!!!!](https://telegra.ph/file/adfffdc36ff4303eb7523.jpg)", )
+    "[ 𝙃𝙚𝙡𝙡𝙤 (),𝙄 𝙖𝙢 Infernipe,
+𝙄 𝙖𝙢 𝙖 𝘼𝙣𝙞𝙢𝙚 𝙩𝙝𝙚𝙢𝙚𝙙 𝙜𝙧𝙤𝙪𝙥 𝙢𝙖𝙣𝙖𝙜𝙚𝙢𝙚𝙣𝙩 𝙗𝙤𝙩
+𝙩𝙤 𝙢𝙖𝙠𝙚 𝙮𝙤𝙪𝙧 𝙜𝙧𝙤𝙪𝙥 𝙖𝙢𝙖𝙯𝙞𝙣𝙜.
+┏━━━━━━━━━━━━━━━━━━━
+┃ • I Wɪʟʟ Usᴇ Mʏ Fɪᴇʀʏ Pᴏᴡᴇʀs     
+┃ Aɴᴅ Pʀᴏᴛᴇᴄᴛ Yᴏᴜʀ Gʀᴏᴜᴘs. 
+┃
+┃ • Yᴏᴜ Cᴀɴ Fɪɴᴅ Mʏ Aᴠᴀɪʟᴀʙʟᴇ
+┃Cᴏᴍᴍᴀɴᴅs Wɪᴛʜ /help
+┃
+┃ • Iғ Aɴʏ Pʀᴏʙʟᴇᴍ Rᴇᴘᴏʀᴛ Iᴛ Tᴏ ┃Sᴜᴘᴘᴏʀᴛ ᴏʀ Mʏ Mᴀsᴛᴇʀ.
+┃
+┃ • Usᴇ Bᴜᴛᴛᴏɴs Bᴇʟᴏᴡ ᴛᴏ          
+┃   Kɴᴏᴡ  Mʏ Aᴠᴀɪʟᴀʙʟᴇ   
+┃   Fᴇᴀᴛᴜʀᴇs.
+┗━━━━━━━━━━━━━━━━━━━")
 
 buttons = [
     [
