@@ -634,7 +634,7 @@ def get_settings(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="Settings",
-                                url="t.me/{}?start=stngs_{}".format(
+                                url="t.me/{Infernipe_bot}?start=stngs_{}".format(
                                     context.bot.username, chat.id
                                 ),
                             )
